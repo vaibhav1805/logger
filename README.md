@@ -1,3 +1,3 @@
-# Advanced Low Level Design
+# Logger
 
-Basic Java implementation of advanced LLD problems like logger, job scheduler etc.
+Java implementation of async logger.
